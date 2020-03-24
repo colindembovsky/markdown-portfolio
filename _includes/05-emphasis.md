@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Musical Skills**:
+- Guitar
+- Drums
+- Vocals
+
+**Programming Languages**:
+- CSharp (_.NET_ and _.NET Core_)
+- Typescript
+- Python
