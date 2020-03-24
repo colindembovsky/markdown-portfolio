@@ -1,4 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-And here's my custom octocat:
-![Image of ColinOctocat](colin-octocat.png)
+![Image of ColinOctocat](https://github.com/colindembovsky/markdown-portfolio/raw/master/_includes/colin-octocat.png)
