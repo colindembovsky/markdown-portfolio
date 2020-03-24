@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Tapestry
+1. Scythe
+1. Dead of Winter
